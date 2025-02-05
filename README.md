@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsha001&show_icons=true&locale=en" alt="adarsha001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsha001&" alt="adarsha001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsha001&show_icons=true&locale=en" alt="adarsha001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsha001&" alt="adarsha001" /></p>
