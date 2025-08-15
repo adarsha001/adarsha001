@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(to bottom, #000000, #1a1a1a); color: white; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Hi 👋, I'm Adarsha</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer from India</h3>
 
@@ -44,3 +46,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsha001&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+</div>
