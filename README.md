@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 Currently learning **Scikit-Learn (Machine Learning)**  
+- 🌱 Currently learning **Three-D web development**  
 - 💬 Ask me about **MERN Stack Development**  
 - 📫 Reach me at: **adarshaharshavardhana@gmail.com**  
 
