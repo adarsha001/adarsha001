@@ -84,15 +84,7 @@ const adarsha = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=adarsha001&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
 
 ---
 
