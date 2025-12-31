@@ -61,11 +61,6 @@ const adarsha = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 </div>
 
 ---
@@ -108,15 +103,8 @@ const adarsha = {
   
 </div>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/adarsha001/adarsha001/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
 
 ---
 
